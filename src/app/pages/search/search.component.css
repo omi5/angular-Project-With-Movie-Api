@@ -1,0 +1,18 @@
+button
+{
+    background-color: #E50914;
+    color: #ffffff;
+}
+
+button:hover
+{
+    background-color: #E50914;
+    color: #ffffff;
+}
+img{
+    width: 100%;
+}
+h5{
+    color: #ffffff;
+    font-weight: bold;
+}
